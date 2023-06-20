@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,Email,Address,City,State,ZipCode,LastModified
+1,Emma,Smith,emma.smith@example.com,123 Main St,Springfield,IL,62704,2023-04-01 00:00:00
+2,Liam,Johnson,liam.johnson@example.com,456 Oak St,Lincoln,NE,68506,2023-04-01 00:00:00
+3,Olivia,Brown,olivia.brown@example.com,789 Maple St,Topeka,KS,66606,2023-04-01 00:00:00
+4,William,Davis,william.davis@example.com,987 Elm St,Omaha,NE,68127,2023-04-01 00:00:00
+5,Ava,Garcia,ava.garcia@example.com,654 Pine St,St. Louis,MO,63101,2023-04-01 00:00:00
+6,James,Rodriguez,james.rodriguez@example.com,321 Cedar St,Des Moines,IA,50309,2023-04-01 00:00:00
+7,Sophia,Miller,sophia.miller@example.com,654 Cherry St,Overland Park,KS,66204,2023-04-01 00:00:00
+8,Benjamin,Martinez,benjamin.martinez@example.com,987 Walnut St,Wichita,KS,67203,2023-04-01 00:00:00
+9,Isabella,Hernandez,isabella.hernandez@example.com,246 Pineapple St,Iowa City,IA,52240,2023-04-01 00:00:00
+10,Michael,Wilson,michael.wilson@example.com,135 Strawberry Ln,Peoria,IL,61603,2023-04-01 00:00:00

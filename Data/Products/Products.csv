@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Description,Price,LastModified
+1,Blue Jeans,Clothing,Comfortable jeans made from premium denim,49.99,2023-04-01 00:00:00
+2,Red T-Shirt,Clothing,Soft and comfortable cotton t-shirt,19.99,2023-04-01 00:00:00
+3,Black Leather Jacket,Clothing,Stylish jacket made from high-quality leather,149.99,2023-04-01 00:00:00
+4,Running Shoes,Shoes,Lightweight and supportive running shoes,89.99,2023-04-01 00:00:00
+5,Basketball,Sports,Official size and weight basketball,29.99,2023-04-01 00:00:00
+6,Baseball Glove,Sports,Durable leather baseball glove,39.99,2023-04-01 00:00:00
+7,Laptop,Electronics,High-performance laptop with Intel processor,899.99,2023-04-01 00:00:00
+8,Smartwatch,Electronics,Water-resistant smartwatch with GPS,249.99,2023-04-01 00:00:00
+9,Wireless Headphones,Electronics,Noise-cancelling wireless headphones,149.99,2023-04-01 00:00:00
+10,Bluetooth Speaker,Electronics,Portable Bluetooth speaker with great sound,79.99,2023-04-01 00:00:00
+11,White Polo Shirt,Clothing,Classic white polo shirt made from cotton,29.99,2023-04-01 00:00:00
+12,Leather Boots,Shoes,Sturdy leather boots with rubber sole,129.99,2023-04-01 00:00:00
+13,Yoga Mat,Sports,Non-slip yoga mat made from eco-friendly TPE,24.99,2023-04-01 00:00:00
+14,Tennis Racquet,Sports,Lightweight and maneuverable tennis racquet,89.99,2023-04-01 00:00:00
+15,Drone,Electronics,Compact drone with HD camera,299.99,2023-04-01 00:00:00
+16,Virtual Reality Headset,Electronics,Immersive virtual reality headset,199.99,2023-04-01 00:00:00
+17,Portable Charger,Electronics,High-capacity portable charger with LED light,49.99,2023-04-01 00:00:00
+18,Bluetooth Earbuds,Electronics,Wireless earbuds with charging case,79.99,2023-04-01 00:00:00
+19,Smart Thermostat,Home,Programmable thermostat for smart homes,129.99,2023-04-01 00:00:00
+20,Air Purifier,Home,HEPA filter air purifier for clean air,199.99,2023-04-01 00:00:00
