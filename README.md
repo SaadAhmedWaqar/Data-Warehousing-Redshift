@@ -49,7 +49,7 @@ Analyze the sales performance based on store location by calculating the total s
 
 
 
-#Solution
+# Solution:
 
 **Dimesional Modelling Flow Diagram**
 
