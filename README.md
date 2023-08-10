@@ -45,9 +45,11 @@ Calculate the average order value by dividing the total sales revenue by the tot
 #### Store Location Analysis:
 Analyze the sales performance based on store location by calculating the total sales revenue for each city or state
 
-### Part 7 (Optional): Create a Data Pipeline to automate above tasks 
+### Part 7 : Create a Data Pipeline to automate above tasks 
 
 
+
+#Solution
 
 **Dimesional Modelling Flow Diagram**
 
