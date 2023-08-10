@@ -47,3 +47,13 @@ Analyze the sales performance based on store location by calculating the total s
 
 ### Part 7 (Optional): Create a Data Pipeline to automate above tasks 
 
+
+
+**Dimesional Modelling Flow Diagram**
+
+
+![Flow Diagram](https://github.com/SaadAhmedWaqar/Data-Warehousing-Redshift/assets/105427072/12932ef0-4a52-4c31-a190-910439385980)
+
+
+
+
